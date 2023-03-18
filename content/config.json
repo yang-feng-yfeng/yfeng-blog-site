@@ -1,9 +1,9 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Blog by The Panda Old Feng",
+  "url": "https://yfeng-blog-site.pages.dev/",
+  "subtitle": "这里记录了我对最近学到的东西的想法",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "G-QCRKF0VHLN",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
@@ -11,37 +11,16 @@
     {
       "label": "Articles",
       "path": "/"
-    },
-    {
-      "label": "About me",
-      "path": "/pages/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "The Panda Old Feng",
+    "photo": "/2.JPG",
+    "bio": "这里记录了我对最近学到的东西的想法",
     "contacts": {
-      "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
-      "line": "",
-      "weibo": "",
-      "gitlab": "",
-      "medium": "",
-      "youtube": "",
-      "codepen": "",
-      "soundcloud": ""
+      "email": "fengyangcs@gmail.com",
+      "youtube": "https://www.youtube.com/channel/UC0GLKehP5UhG-_F5rxfHRNw",
+      "twitch": "https://www.twitch.tv/yfeng_"
     }
   }
 }
