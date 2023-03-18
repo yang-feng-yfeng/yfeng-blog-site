@@ -1,5 +1,6 @@
 ---
 title: Test page
+date: "2023-03-18T17:19:10+0000"
 template: "post"
 draft: false
 slug: "/posts/test-page"
