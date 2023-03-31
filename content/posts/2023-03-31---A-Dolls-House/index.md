@@ -1,5 +1,5 @@
 ---
-title: Short analysis of Henrik Ibsen's "A Doll's House"
+title: "A Doll's House: A Timeless Exploration of Gender Roles and Relationships" 
 date: "2023-03-31T09:30:10+0000" # date -u +%FT%T%z
 template: "post"
 draft: false
